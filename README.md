@@ -18,5 +18,5 @@ This repository contains my C language practice programs.
 ## language used
 C
 
-##Author 
+## Author 
 Poojashree S M
